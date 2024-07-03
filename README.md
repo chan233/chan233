@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <h2>🚀 WebTools I Use</h2>
 
 <p><a target="_blank" style="display: inline-block; border-radius: 21; overflow: hidden;"><img src="./images/wireshark.png" alt="wireshark" width="42" height="42" /></a>
-<p><a target="_blank" style="display: inline-block; border-radius: 21; overflow: hidden;"><img src="./images/charles.png" alt="charles" width="42" height="42" /></a>
+<a target="_blank" style="display: inline-block; border-radius: 21; overflow: hidden;"><img src="./images/charles.png" alt="charles" width="42" height="42" /></a>
 </p>
 
 
