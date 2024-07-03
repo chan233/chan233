@@ -27,6 +27,9 @@ Here are some ideas to get you started:
 
 <a target="_blank" href="https://ghidra-sre.org/images/GHIDRA_1.png" style="display: inline-block;"><img src="https://ghidra-sre.org/images/GHIDRA_1.png" alt="ghida" width="42" height="42" /></a>
 
+<a target="_blank" href="https://avatars.githubusercontent.com/u/2842539?s=48&v=4" style="display: inline-block;"><img src="https://avatars.githubusercontent.com/u/2842539?s=48&v=4" alt="radare2" width="42" height="42" /></a>
+
+
 
 </p>
 
