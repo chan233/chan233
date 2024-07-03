@@ -27,6 +27,10 @@ Here are some ideas to get you started:
 <a target="_blank" href="https://th.bing.com/th/id/R.1a09161bf4fc5dd8aeb99014e6925d6e?rik=K7b4Y7E54xNKKg&riu=http%3a%2f%2fcrack-tool.at.ua%2fpictures%2fpict3%2fIDA-logo.png&ehk=8ceRo4sqyQfeMpIc1JGSQybb1A6E38tKLWgaO%2f%2fNNis%3d&risl=&pid=ImgRaw&r=0" style="display: inline-block; border-radius: 21; overflow: hidden;"><img src="https://th.bing.com/th/id/R.1a09161bf4fc5dd8aeb99014e6925d6e?rik=K7b4Y7E54xNKKg&riu=http%3a%2f%2fcrack-tool.at.ua%2fpictures%2fpict3%2fIDA-logo.png&ehk=8ceRo4sqyQfeMpIc1JGSQybb1A6E38tKLWgaO%2f%2fNNis%3d&risl=&pid=ImgRaw&r=0" alt="ida" width="42" height="42" /></a>
 <a target="_blank" href="https://ghidra-sre.org/images/GHIDRA_1.png" style="display: inline-block; border-radius: 21; overflow: hidden;"><img src="https://ghidra-sre.org/images/GHIDRA_1.png" alt="ghida" width="42" height="42" /></a>
 <a target="_blank" href="https://creantelab.co/wp-content/uploads/2020/10/logo-1.png" style="display: inline-block; border-radius: 21; overflow: hidden;"><img src="https://creantelab.co/wp-content/uploads/2020/10/logo-1.png" alt="radare2" width="42" height="42" /></a>
+<code><img height="20" src="./images/frida.png" alt="frida" /></code>
+<code><img height="20" src="./images/ghidra.png" alt="ghidra" /></code>
+<code><img height="20" src="./images/idapro.png" alt="idapro" /></code>
+
 </p>
 
 
