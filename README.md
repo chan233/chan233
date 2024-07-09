@@ -34,6 +34,9 @@ Here are some ideas to get you started:
 <p><a target="_blank" style="display: inline-block; border-radius: 21; overflow: hidden;"><img src="./images/wireshark.png" alt="wireshark" width="42" height="42" /></a>
 <a target="_blank" style="display: inline-block; border-radius: 21; overflow: hidden;"><img src="./images/charles.png" alt="charles" width="42" height="42" /></a>
 </p>
+<h2>🚀 Fuzzer I Use</h2>
+<p><a target="_blank" style="display: inline-block; border-radius: 21; overflow: hidden;"><img src="./images/afl.svg" alt="afl" width="42" height="42" /></a>
+</p>
 
 
 
