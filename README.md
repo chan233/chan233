@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <a target="_blank" style="display: inline-block; border-radius: 21; overflow: hidden;"><img src="./images/x64dbg.png" alt="x64dbg" width="42" height="42" /></a>
 <a target="_blank" style="display: inline-block; border-radius: 21; overflow: hidden;"><img src="./images/aflpp_bg.svg" alt="afl" width="42" height="42" /></a>
 <a target="_blank" style="display: inline-block; border-radius: 21; overflow: hidden;"><img src="https://avatars.githubusercontent.com/u/2842539?s=48&v=4" alt="afl" width="42" height="42" /></a>
-
+<a target="_blank" style="display: inline-block; border-radius: 21; overflow: hidden;"><img src="https://avatars.githubusercontent.com/u/3533327?s=48&v=4" alt="afl" width="42" height="42" /></a>
 </p>
 <h2>🚀 WebTools I Use</h2>
 
