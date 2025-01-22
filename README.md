@@ -25,20 +25,14 @@ Here are some ideas to get you started:
 
 </p>
 <h2>🚀 Reverse Tools I Use</h2>
-<p>
-<a target="_blank" href="[https://creantelab.co/wp-content/uploads/2020/10/logo-1.png](https://avatars.githubusercontent.com/u/4073090?s=48&v=4)" style="display: inline-block; border-radius: 21; overflow: hidden;"><img src="https://avatars.githubusercontent.com/u/4073090?s=48&v=4" alt="frida" width="42" height="42" /></a>  
-
-<a target="_blank" href="[https://avatars.githubusercontent.com/u/48321160?s=48&v=4](https://avatars.githubusercontent.com/u/48321160?s=48&v=4)" style="display: inline-block; border-radius: 21; overflow: hidden;"><img src="https://avatars.githubusercontent.com/u/48321160?s=48&v=4" alt="frida" width="42" height="42" /></a>  
-
-
-<a target="_blank" style="display: inline-block; border-radius: 21; overflow: hidden;"><img src="./images/ghidra.png" alt="ghidra" width="42" height="42" /></a>
+<p><a target="_blank" href="[https://creantelab.co/wp-content/uploads/2020/10/logo-1.png](https://avatars.githubusercontent.com/u/4073090?s=48&v=4)" style="display: inline-block; border-radius: 21; overflow: hidden;"><img src="https://avatars.githubusercontent.com/u/4073090?s=48&v=4" alt="frida" width="42" height="42" /></a>  
+<a target="_blank" href="[https://avatars.githubusercontent.com/u/48321160?s=48&v=4](https://avatars.githubusercontent.com/u/48321160?s=48&v=4)" style="display: inline-block; border-radius: 21; overflow: hidden;"><img src="https://avatars.githubusercontent.com/u/48321160?s=48&v=4" alt="frida" width="42" height="42" /></a>
 <a target="_blank" style="display: inline-block; border-radius: 21; overflow: hidden;"><img src="./images/idapro.png" alt="idapro" width="42" height="42" /></a>
 <a target="_blank" href="https://creantelab.co/wp-content/uploads/2020/10/logo-1.png" style="display: inline-block; border-radius: 21; overflow: hidden;"><img src="https://creantelab.co/wp-content/uploads/2020/10/logo-1.png" alt="radare2" width="42" height="42" /></a>
 <a target="_blank" style="display: inline-block; border-radius: 21; overflow: hidden;"><img src="./images/x64dbg.png" alt="x64dbg" width="42" height="42" /></a>
 <a target="_blank" style="display: inline-block; border-radius: 21; overflow: hidden;"><img src="./images/aflpp_bg.svg" alt="afl" width="42" height="42" /></a>
 <a target="_blank" style="display: inline-block; border-radius: 21; overflow: hidden;"><img src="https://avatars.githubusercontent.com/u/2842539?s=48&v=4" alt="afl" width="42" height="42" /></a>
-<a target="_blank" style="display: inline-block; border-radius: 21; overflow: hidden;"><img src="https://avatars.githubusercontent.com/u/3533327?s=48&v=4" alt="afl" width="42" height="42" /></a>
-</p>
+<a target="_blank" style="display: inline-block; border-radius: 21; overflow: hidden;"><img src="https://avatars.githubusercontent.com/u/3533327?s=48&v=4" alt="afl" width="42" height="42" /></a></p>
 <h2>🚀 WebTools I Use</h2>
 
 <p><a target="_blank" style="display: inline-block; border-radius: 21; overflow: hidden;"><img src="./images/wireshark.png" alt="wireshark" width="42" height="42" /></a>
